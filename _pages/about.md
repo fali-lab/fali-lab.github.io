@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the Land Intelligence (LI) Lab. Our lab examines how human activities and climate change affect climate hazards (e.g., wildfires) and natural ecosystems (e.g., forests and wetlands), and how to better monitor, predict, and mitigate their negative effects, improving the resillience of socio-ecological systems."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+We leverage advances in AI (e.g., Causality Inference, physics-informed AI), Earth system models, and big data (e.g., remote sensing/GIS, eddy covariance). For example, [FLUXNET-CH₄ V2.0] (https://fluxnet.org/data/fluxnet-ch4-community-product/), a global network of eddy covariance measurements which Fa is leading, to enhance the monitoring of ecosystem carbon (CH4 and CO2)-water-energy fluxes through [Global Carbon Project] (https://www.globalcarbonproject.org/). For example, [physics-informed AI] (https://doi.org/10.1029/2024EF004588), and [DOE's Earth system model with remote sensing] (https://gmd.copernicus.org/articles/15/1899/2022/gmd-15-1899-2022.html), to better understand and predict fire dynamics.
 
 A data-driven personal website
 ======
