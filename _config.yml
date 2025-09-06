@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Land Intelligence / Li Lab"
+title                    : "Land Intelligence Lab"
 title_separator          : "-"
 name                     : &name "Fa Li"
 description              : &description "Land Intelligence"
