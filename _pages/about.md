@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to the Land Intelligence (LI) Lab. Our lab examines how human activities and climate change affect climate hazards (e.g., wildfires) and natural ecosystems (e.g., forests and wetlands), and how to better monitor, predict, and mitigate their negative effects, improving the resillience of socio-ecological systems."
+title: "Welcome to the Land Intelligence (LI) Lab."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-We leverage advances in AI (e.g., Causality Inference, physics-informed AI), Earth system models, and big data (e.g., remote sensing/GIS, eddy covariance). For example, [FLUXNET-CH₄ V2.0] (https://fluxnet.org/data/fluxnet-ch4-community-product/), a global network of eddy covariance measurements which Fa is leading, to enhance the monitoring of ecosystem carbon (CH4 and CO2)-water-energy fluxes through [Global Carbon Project] (https://www.globalcarbonproject.org/). For example, [physics-informed AI] (https://doi.org/10.1029/2024EF004588), and [DOE's Earth system model with remote sensing] (https://gmd.copernicus.org/articles/15/1899/2022/gmd-15-1899-2022.html), to better understand and predict fire dynamics.
+Our lab examines how human activities and climate change affect climate hazards (e.g., wildfires) and natural ecosystems (e.g., forests and wetlands), and how to better monitor, predict, and mitigate their negative effects, improving the resillience of socio-ecological systems. We leverage advances in AI (e.g., Causality Inference, physics-informed AI), Earth system models, and big data (e.g., remote sensing/GIS, eddy covariance). For example, [physics-informed AI](https://doi.org/10.1029/2024EF004588), and [DOE's Earth system model with remote sensing](https://gmd.copernicus.org/articles/15/1899/2022/gmd-15-1899-2022.html), to better understand and predict wildfire dynamics. For example, [FLUXNET-CH₄ V2.0](https://fluxnet.org/data/fluxnet-ch4-community-product/), a global network of eddy covariance measurements which Fa is leading, to enhance the monitoring of ecosystem carbon (CH4 and CO2)-water-energy fluxes through [Global Carbon Project](https://www.globalcarbonproject.org/). 
 
 A data-driven personal website
 ======
