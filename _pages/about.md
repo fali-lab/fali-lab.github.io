@@ -1,54 +1,30 @@
 ---
 permalink: /
-title: "Welcome to the Land Intelligence (LI) Lab."
+title: "Welcome to Land Intelligence (LI) Lab at University of Texas at Austin"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Our lab examines how human activities and climate change affect climate hazards (e.g., wildfires) and natural ecosystems (e.g., forests and wetlands), and how to better monitor, predict, and mitigate their negative effects, improving the resillience of socio-ecological systems. We leverage advances in AI (e.g., Causality Inference, physics-informed AI), Earth system models, and big data (e.g., remote sensing/GIS, eddy covariance). For example, [physics-informed AI](https://doi.org/10.1029/2024EF004588), and [DOE's Earth system model with remote sensing](https://gmd.copernicus.org/articles/15/1899/2022/gmd-15-1899-2022.html), to better understand and predict wildfire dynamics. For example, [FLUXNET-CH₄ V2.0](https://fluxnet.org/data/fluxnet-ch4-community-product/), a global network of eddy covariance measurements which Fa is leading, to enhance the monitoring of ecosystem carbon (CH4 and CO2)-water-energy fluxes through [Global Carbon Project](https://www.globalcarbonproject.org/). 
+Our lab examines how human activities and climate change affect climate hazards (e.g., wildfires, droughts) and natural ecosystems (e.g., forests and wetlands), and how to better monitor, predict, and mitigate the negative effects. We leverage advances in AI (e.g., Causality Inference, physics-informed AI), Earth system models, and big data (e.g., remote sensing/GIS, eddy covariance), to understand and model the fundamental processes shaping our socio-ecological systems. 
 
-A data-driven personal website
+PhD Opportunities (updated Sep. 2025) 
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+We are seeking three fully-funded Ph.D. students (tuition and stipend) to start in the **Fall of 2026**. Students interested in the following topics are encouraged to apply:
+- AI: Machine learning, causality inference
+- Data science: Remote sensing, geospatial data science and modeling
+- Environmental or Earth system science: human-environment interactions, climate hazard/risk modeling, vegetation dynamics, land-atmosphere interactions of carbon, water, and energy
+- We also encourage research directions beyond those listed, but within the lab’s overall research umbrella.
+**Applicants must meet the [UT Austin Graduate school's admission requirements](https://catalog.utexas.edu/general-information/admission/graduate-admission/)**
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**How to apply**: Please send your cover letter, most recent CV, and contact information of three references to Fa Li at fa.li@austin.utexas.edu (cc: fali2@stanford.edu), using “PhD Application for Land Intelligence Lab” as the subject line of the email. We sincerely appreciate all applications; only shortlisted candidates will be contacted for an interview. 
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+**For full consideration, applications should be received by November 10, 2025**.
 
-Getting started
+Postdoc Opportunities
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Applicants are expected to apply for the University’s internal or external fellowships. For more information on fellowship and funding opportunities, please contact Fa Li (fa.li@austin.utexas.edu)
 
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
