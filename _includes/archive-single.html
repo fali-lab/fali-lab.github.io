@@ -101,7 +101,7 @@
   </div>
 
 {% else %}
-  {# Fallback: original layout for all other types/collections #}
+  <!-- Fallback: original layout for all other types/collections -->
   <div class="{{ include.type | default: "list" }}__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       {% if include.type == "grid" and teaser %}
@@ -142,8 +142,7 @@
         <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
       {% endif %}
 
-      {# keep the big citation/links block unchanged here too #}
-      ... (keep the rest of your original code)
+      <!-- keep the big citation/links block unchanged here too -->
     </article>
   </div>
 {% endif %}
