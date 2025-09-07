@@ -41,3 +41,23 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* === Custom portfolio layout overrides === */
+.portfolio-row {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  margin: 1.5rem 0;
+}
+.portfolio-row img {
+  max-width: 260px;
+  height: auto;
+  border-radius: 6px;
+}
+.portfolio-text {
+  flex: 1;
+}
+@media (max-width: 768px) {
+  .portfolio-row {
+    flex-direction: column;
+  }
+}
