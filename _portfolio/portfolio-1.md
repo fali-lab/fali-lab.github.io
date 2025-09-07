@@ -1,7 +1,16 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<div class="portfolio-row">
+  <img src="/images/500x300.png" alt="Portfolio image">
+  <div>
+    <p>
+      This is an item in your portfolio.  
+      It can have images or descriptive text.  
+      If you name the file <code>.md</code>, it will be parsed as Markdown.  
+      If you name the file <code>.html</code>, it will be parsed as HTML.
+    </p>
+  </div>
+</div>
