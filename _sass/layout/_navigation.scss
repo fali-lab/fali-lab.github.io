@@ -442,3 +442,8 @@
     }
   }
 }
+
+/* Hide the theme toggle in navbar */
+.greedy-nav .visible-links #theme-toggle {
+  display: none !important;
+}
