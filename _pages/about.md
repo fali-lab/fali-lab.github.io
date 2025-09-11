@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-**Land Intelligence (LI) lab** at UT Austin examines land surface components that influences the resilience of our socio-ecological systems, including climate hazards (e.g., wildfires, droughts), terrestrial ecosystems (e.g., forests and wetlands), and their interactions with humans. We aim to understand, predict, and reduce climate risks to people and ecosystems by leveraging advances in Artificial Intelligence (e.g., machine learning), Earth observations (e.g., satellite remote sensing, eddy covariance), and Earth system models. <a class="btn btn--small" href="{{ '/research/' | relative_url }}">Learn more</a>
+**Land Intelligence (LI) lab** at UT Austin examines how land surface components, including humans and terrestrial ecosystems (e.g., forests and wetlands), interact with climate hazards (e.g., wildfires, droughts). We aim to better monitor, understand, predict, and reduce climate risks to people and ecosystems by leveraging advances in Artificial Intelligence (e.g., machine learning), Earth observations (e.g., satellite remote sensing, field measurements), and Earth system models. <a class="btn btn--small" href="{{ '/research/' | relative_url }}">Learn more</a>
 
 # Highlights
 
