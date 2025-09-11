@@ -1,0 +1,27 @@
+{% comment %}
+  Compact card for grid lists: smaller gap between title and excerpt (image).
+{% endcomment %}
+
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  {%- if post.header and post.header.teaser -%}
+    <div class="archive__item-teaser">
+      <img src="{{ post.header.teaser | relative_url }}" alt="">
+    </div>
+  {%- endif -%}
+
+  <h2 class="archive__item-title no_toc" itemprop="headline"
+      style="margin-bottom:.25rem;">
+    {%- if post.link -%}
+      <a href="{{ post.link | relative_url }}" rel="permalink">{{ post.title }}</a>
+    {%- else -%}
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+    {%- endif -%}
+  </h2>
+
+  {%- if post.excerpt -%}
+    <div class="archive__item-excerpt" itemprop="description"
+         style="margin-top:0;">
+      {{ post.excerpt | markdownify }}
+    </div>
+  {%- endif -%}
+</article>

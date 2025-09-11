@@ -1,14 +1,25 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "People"
+permalink: /people/
 author_profile: false
+redirect_from:
+  - /portfolio/
+  - /portfolio.html
 ---
-
 {% include base_path %}
 
+<!-- 先拿到所有写了 order 的条目，并按 order 升序 -->
+{% assign with_order = site.portfolio | where_exp: "p", "p.order" | sort: "order" %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- 再拿到没写 order 的，放到后面 -->
+{% assign without_order = site.portfolio | where_exp: "p", "p.order == nil" %}
+
+<div class="mm-grid-3">
+  {% for post in with_order %}
+    <article class="mm-grid-item">
+      {% include archive-single-portfolia.html %}
+    </article>
+  {% endfor %}
+</div>
 

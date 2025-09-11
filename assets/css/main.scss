@@ -61,3 +61,31 @@
     flex-direction: column;
   }
 }
+
+/* 固定 3 列，自适应断点 */
+.mm-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+.mm-grid-item { min-width: 0; }
+
+@media (max-width: 1024px) {
+  .mm-grid-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 640px) {
+  .mm-grid-3 { grid-template-columns: 1fr; }
+}
+
+/* 让卡片充满单元格（配合 archive-single.html） */
+.mm-grid-item .archive__item {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* People/Portfolio 卡片里，压小标题与摘要(图片)的间距 */
+.mm-grid-3 .archive__item-title { margin-bottom: .25rem; }  /* 默认一般更大 */
+.mm-grid-3 .archive__item-excerpt { margin-top: 0; }        /* 去掉摘要块上边距 */
+.mm-grid-3 .archive__item-excerpt p { margin: 0; }          /* 若被包在 <p> 里 */
+.mm-grid-3 .archive__item-excerpt img { margin-top: 0; display:block; }
