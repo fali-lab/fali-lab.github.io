@@ -17,8 +17,8 @@ excerpt: |
   <img src="/images/profile.jpg" alt="Portfolio image">
   <div>
     <p>
-        I am an Incoming Assistant Professor in the 
-        <a href="https://www.jsg.utexas.edu/" target="_blank">Jackson School of Geosciences</a>, 
+        I am an Assistant Professor in the 
+        <a href="https://www.jsg.utexas.edu/researcher/fa_li/" target="_blank">Jackson School of Geosciences</a>, 
         <a href="https://www.utexas.edu/" target="_blank">University of Texas at Austin</a> staring from Jan. 1, 2026. 
         Before joining UT Austin, I am a <a href="https://profiles.stanford.edu/fa-li" target="_blank">Postdoctoral Scholar</a>  at <a href="https://jacksonlab.stanford.edu/" target="_blank">Jackson Lab</a>,<a href="https://earthsystemscience.stanford.edu/" target="_blank">Department of Earth System Science</a>,
         <a href="https://profiles.stanford.edu/fa-li" target="_blank">Stanford University</a>, 
