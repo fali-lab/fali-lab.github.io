@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: "https://fali-lab.github.io/"
+    url: /
   
   - title: "Research"
     url: /publications/
