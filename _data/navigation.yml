@@ -22,6 +22,9 @@ main:
     
   - title: "People"
     url: /portfolio/
+  
+  - title: "Publications"
+    url: /papers/
         
   #- title: "News"
   #  url: /year-archive/
