@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-**Land Intelligence (LI) lab** at UT Austin examines how terrestrial ecosystems (e.g., forests and wetlands) interact with human activities and climate hazards (e.g., wildfires, droughts). We aim to better monitor, understand, predict, and reduce climate risks to people and ecosystems by leveraging advances in Artificial Intelligence (e.g., machine learning), Earth observations (e.g., satellite remote sensing, field measurements), and Earth system models. <a class="btn btn--small" href="{{ '/research/' | relative_url }}">Learn more</a>
+**Land Intelligence (LI) lab** at UT Austin examines how terrestrial ecosystems (e.g., forests and wetlands) interact with human activities and hydroclimatic hazards, with a particular focus on wildfires and land–atmosphere interactions of carbon (CH₄ and CO₂), water, and energy. We aim to better monitor, predict, and reduce hydroclimatic risks to people and ecosystems by leveraging advances in Artificial Intelligence (e.g., machine learning), Earth observations (e.g., satellite remote sensing, field measurements), and Earth system models. <a class="btn btn--small" href="{{ '/research/' | relative_url }}">Learn more</a>
 
 # Highlights
 
