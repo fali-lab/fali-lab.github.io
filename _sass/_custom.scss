@@ -1,0 +1,6 @@
+/* 在小屏上隐藏左上角站点标题，只保留菜单里的 Home */
+@media (max-width: 768px) {
+  .masthead .site-title {
+    display: none;
+  }
+}
