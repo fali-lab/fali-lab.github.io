@@ -89,3 +89,9 @@
 .mm-grid-3 .archive__item-excerpt { margin-top: 0; }        /* 去掉摘要块上边距 */
 .mm-grid-3 .archive__item-excerpt p { margin: 0; }          /* 若被包在 <p> 里 */
 .mm-grid-3 .archive__item-excerpt img { margin-top: 0; display:block; }
+
+@media (max-width: 768px) {
+  .greedy-nav .visible-links { max-width: 0 !important; overflow: hidden; }
+  .masthead .site-title { display: none; } /* 可选 */
+}
+
