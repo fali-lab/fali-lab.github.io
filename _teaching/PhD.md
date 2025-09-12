@@ -13,7 +13,7 @@ location: "City, Country"
 Students interested in the following topics with strong quantitative and programming skills, are encouraged to apply:
 - AI: Machine learning, causality inference, foundation models
 - Data science: Remote sensing, geospatial/environmental data science
-- Environmental/Earth system science: climate hazard/impact/risk modeling, terrestrial ecosystem modeling, vegetation dynamics, human-environment interactions, land-atmosphere interactions
+- Environmental/Earth system science: wildfire or hydroclimatic hazard/impact/risk modeling, terrestrial ecosystem modeling, vegetation dynamics, human-environment interactions, land-atmosphere interactions
 - We encourage research directions beyond those listed, but within the lab’s overall research umbrella.
 
 Applicants must meet the **[UT Austin Graduate school's admission requirements](https://catalog.utexas.edu/general-information/admission/graduate-admission/)**
