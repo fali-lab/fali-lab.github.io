@@ -94,6 +94,11 @@ redirect_from:
 
 - **Hiring** – [PhDs and Postdoc opportunities, 2026](/joinus/)  
 - **Apr 2026** – Our new paper published on [Nature Climate Change](https://www.nature.com/articles/s41558-026-02609-w), The underappreciated importance of small wetlands in global methane emissions
+- **Apr 2026** – Fa Li Delivers Invited Talk at University of Illinois Chicago, invited by Prof. Gavin McNicol
+- **Mar 2026** – Our new paper published on [Science](https://www.science.org/doi/abs/10.1126/science.aef0459), A global methane observation system to track climate feedbacks
+- **Feb 2026** – Our new paper published on [Science](https://www.science.org/doi/abs/10.1126/science.adx8262), Recent atmospheric methane surge caused by hydroxyl radical (sink) and wetlands/inland water emissions
+- **Jan 2026** – Fa Li Delivers Invited Talk at the UT Geography Colloquium, invited by Prof. Gengchen Mai
+- **Dec 2026** – Fa Li delivered two invited talks at AGU, presenting recent work on hybrid AI and its applications
 - **Workshop** – Aspen global change initiative,  [Methane Alert](https://www.agci.org/workshops/701Nu00000N1n4jIAB/methane-alert-an-integrated-measurement-framework-to-monitor-increasing-natural-methane-emissions), bringing together scientists worldwide, including Fa Li.
 - **Sep 2025** – New paper out：A novel machine learning technique to extract low-dimensional representations from high-dimensional data, enabling improved visualization, classification, and clustering, [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01112-9).  
 - **Sep 2025** – New paper out：Hyperspectral satellite reflectance data improves vegetation productivity estimation, [Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114989).
