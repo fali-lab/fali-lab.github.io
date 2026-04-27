@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-**Land Intelligence (LI) lab** at UT Austin examines how terrestrial ecosystems (e.g., forests and wetlands) interact with human activities and hydroclimatic hazards, with a particular focus on wildfires and land–atmosphere interactions of carbon (CH₄ and CO₂), water, and energy. We aim to better monitor, predict, and reduce hydroclimatic risks to people and ecosystems by leveraging advances in Artificial Intelligence (e.g., machine learning), Earth observations (e.g., satellite remote sensing, field measurements), and Earth system models. <a class="btn btn--small" href="{{ '/research/' | relative_url }}">Learn more</a>
+**Land Intelligence (LI) lab** at UT Austin examines how terrestrial ecosystems (e.g., forests and wetlands) interact with human activities and hydroclimatic hazards, with a particular focus on extreme events (e.g., wildfires) and carbon(CH₄ and CO₂)-water-energy cycles. We aim to better monitor, predict, and reduce hydroclimatic risks to people and ecosystems by leveraging advances in Artificial Intelligence (e.g., machine learning), Earth observations (e.g., satellite remote sensing, field measurements), and Earth system models. <a class="btn btn--small" href="{{ '/research/' | relative_url }}">Learn more</a>
 
 # Highlights
 
@@ -93,7 +93,8 @@ redirect_from:
 # News
 
 - **Hiring** – [PhDs and Postdoc opportunities, 2026](/joinus/)  
-- **Upcoming workshop** – Aspen global change initiative,  [Methane Alert](https://www.agci.org/workshops/701Nu00000N1n4jIAB/methane-alert-an-integrated-measurement-framework-to-monitor-increasing-natural-methane-emissions), bringing together scientists worldwide, including Fa Li.
+- **Apr 2026** – Our new paper published on [Nature Climate Change](https://www.nature.com/articles/s41558-026-02609-w), The underappreciated importance of small wetlands in global methane emissions
+- **Workshop** – Aspen global change initiative,  [Methane Alert](https://www.agci.org/workshops/701Nu00000N1n4jIAB/methane-alert-an-integrated-measurement-framework-to-monitor-increasing-natural-methane-emissions), bringing together scientists worldwide, including Fa Li.
 - **Sep 2025** – New paper out：A novel machine learning technique to extract low-dimensional representations from high-dimensional data, enabling improved visualization, classification, and clustering, [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01112-9).  
 - **Sep 2025** – New paper out：Hyperspectral satellite reflectance data improves vegetation productivity estimation, [Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114989).
 - **Aug 2025** – New paper out：Physics-informed machine learning combining radiative transfer processes with leaf spectroscopy data for improved leaf trait prediction, with broad spatial, species, and temporal applicability, [Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114818).
