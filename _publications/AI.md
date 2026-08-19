@@ -12,7 +12,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-<img src="/images/AI.jpg" alt="Wildfire figure" style="width:70%; border-radius:12px; margin:20px auto; display:block;">
+<img src="/images/PI-AI.jpg" alt="Wildfire figure" style="width:70%; border-radius:12px; margin:20px auto; display:block;">
 
 Real-world responses to critical hazards or climate challenges demand models that are not only accurate but also physically interpretable and transferable across scales. Traditional machine learning often struggles with limited observations or poor generalization, functioning as black boxes, whereas purely process-based models may overlook hidden patterns in complex data and suffer from limited accuracy. Our lab explores physically-interpretable machine learning and geospatial reasoning schemes that integrate domain knowledge for high
 accurate and transferable geospatial process modeling even with limited data observations. We are particulally interested in:
@@ -25,7 +25,8 @@ accurate and transferable geospatial process modeling even with limited data obs
 
 ### Selected Papers
 
-1. Peng, D., Gui, Z., Wei, W., **Li, F.**, Gui, J., Wu. H., Gong, J. (2025). Sampling-enabled scalable manifold learning unveils the discriminative cluster structure of high-dimensional data. *[Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01112-9)*
+1. Peng, D., Gui, Z., Wei, W., **Li, F.**, Gui, J., Wu. H., Gong, J. (2025). Sampling-enabled scalable manifold learning unveils the discriminative cluster structure of high-dimensional data. **[Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01112-9)**
+1. Zhu, Q., Arndt A. K., Yuan, K., **Li, F.**, et al. (2026). Multi-Decadal Dynamics of Wetland Methane Emissions Revealed by Knowledge-Guided Machine Learning. **[Global Change Biology](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70899)**.
 2. Liu, H., **Li, F.**, Dashti, H., & Chen, M. (2025). Hyperspectral surface reflectance improves GPP estimation in terrestrial biosphere modeling using model–data fusion. *[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114989)*, 330, 114989.  
 
 3. Ji, F., **Li, F.**, Dashti, H., Hao, D., Townsend, P. A., Zheng, T., You, H., & Chen, M. (2024). Leveraging transfer learning and leaf spectroscopy for leaf trait prediction with broad spatial, species, and temporal applicability. *[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114818)*.  

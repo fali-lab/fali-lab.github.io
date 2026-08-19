@@ -67,20 +67,20 @@ redirect_from:
 <div class="research-grid">
   <a class="card" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf012/8003458?login=false">
     <img src="{{ '/images/Fire.png' | relative_url }}" alt="Wildfire">
-    <h4>Wildfire risk in the western United States</h4>
+    <h4>Wildfire risk is rising</h4>
     <p>How humans and hydroclimate contribute</p>
   </a>
 
   <a class="card" href="https://doi.org/10.1029/2024EF004588">
-    <img src="{{ '/images/AI.jpg' | relative_url }}" alt="Wetland methane">
+    <img src="{{ '/images/AttentionFire.png' | relative_url }}" alt="Wetland methane">
     <h4>AI needs to become more physically interpretable</h4>
-    <p>To address critical Earth science challenges</p>
+    <p>To address critical wildfire challenges</p>
   </a>
 
-  <a class="card" href="https://www.nature.com/articles/s41558-024-01933-3">
+  <a class="card" href="https://www.nature.com/articles/s41558-026-02609-w">
     <img src="{{ '/images/Wetland.jpg' | relative_url }}" alt="methane">
-    <h4>Rising climate risk from terristrial ecosystems</h4>
-    <p>Wetlands play a critical role</p>
+    <h4>Millions of small wetlands revealed by high-resolution satellite imagery</h4>
+    <p>A major methane source</p>
   </a>
   
   <a class="card" href="https://fluxnet.org/data/fluxnet-ch4-community-product/">
@@ -92,18 +92,22 @@ redirect_from:
 
 # News
 
-- **Hiring** – [PhDs and Postdoc opportunities, 2026](/joinus/)  
-- **Apr 2026** – Our new paper published on [Nature Climate Change](https://www.nature.com/articles/s41558-026-02609-w), The underappreciated importance of small wetlands in global methane emissions
-- **Apr 2026** – Fa Li Delivers Invited Talk at University of Illinois Chicago, invited by Prof. Gavin McNicol
-- **Mar 2026** – Our new paper published on [Science](https://www.science.org/doi/abs/10.1126/science.aef0459), A global methane observation system to track climate feedbacks
-- **Feb 2026** – Our new paper published on [Science](https://www.science.org/doi/abs/10.1126/science.adx8262), Recent atmospheric methane surge caused by hydroxyl radical (sink) and wetlands/inland water emissions
-- **Jan 2026** – Fa Li Delivers Invited Talk at the UT Geography Colloquium, invited by Prof. Gengchen Mai
-- **Dec 2026** – Fa Li delivered two invited talks at AGU, presenting recent work on hybrid AI and its applications
-- **Workshop** – Aspen global change initiative,  [Methane Alert](https://www.agci.org/workshops/701Nu00000N1n4jIAB/methane-alert-an-integrated-measurement-framework-to-monitor-increasing-natural-methane-emissions), bringing together scientists worldwide, including Fa Li.
-- **Sep 2025** – New paper out：A novel machine learning technique to extract low-dimensional representations from high-dimensional data, enabling improved visualization, classification, and clustering, [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01112-9).  
-- **Sep 2025** – New paper out：Hyperspectral satellite reflectance data improves vegetation productivity estimation, [Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114989).
-- **Aug 2025** – New paper out：Physics-informed machine learning combining radiative transfer processes with leaf spectroscopy data for improved leaf trait prediction, with broad spatial, species, and temporal applicability, [Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114818).
+- **Hiring** – [PhDs and Postdoc opportunities, 2027](/joinus/)
+- **Welcome** – New team members(alphabetical order): Chayce Doda, Chenchen Ding, Hangkai You, and Mingda Wu 
+- **Aug 2026** – Fa Li enjoyed the **[NSF NCAR](https://ncarprojects.ucar.edu/S2S-predictability/2026-s2s-land-atmosphere-interactions-workshop)** S2S Land-atmosphere Interactions Workshop, Happy to see Friends there; thanks the workshop Committee!
+- **Jul 2026** – Fa Li Delivers **Invited Talk** at **[ESIP](https://www.esipfed.org/meetings/)**, invited by Executive Director Dr. Sarah Cooley 
+- **May 2026** – New paper published on **[Global Change Biology](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70899)**, Knowledge-guided AI for methane dynamics
+- **Apr 2026** – Our new paper published on **[Nature Climate Change](https://www.nature.com/articles/s41558-026-02609-w)**, Millions of small wetlands worldwide: important for climate
+- **Apr 2026** – Fa Li Delivers **Invited Talk** at *University of Illinois Chicago*, invited by Prof. Gavin McNicol
+- **Mar 2026** – Our new paper published on **[Science](https://www.science.org/doi/abs/10.1126/science.aef0459)**, A global methane observation system to track climate feedbacks
+- **Feb 2026** – Our new paper published on **[Science](https://www.science.org/doi/abs/10.1126/science.adx8262)**, Recent atmospheric methane surge caused by hydroxyl radical (sink) and wetlands/inland water emissions
+- **Jan 2026** – Fa Li Delivers **Invited Talk** at the *UT Geography Colloquium*, invited by Prof. Gengchen Mai
+- **Dec 2026** – Fa Li delivered two **invited talks** at AGU, presenting recent work on hybrid AI and its applications
+- **Workshop** – Aspen global change initiative,  **[Methane Alert](https://www.agci.org/workshops/701Nu00000N1n4jIAB/methane-alert-an-integrated-measurement-framework-to-monitor-increasing-natural-methane-emissions)**, bringing together scientists worldwide; Fa Li gave a **talk**.
+- **Sep 2025** – New paper out：A novel machine learning technique to extract low-dimensional representations from high-dimensional data, enabling improved visualization, classification, and clustering, **[Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01112-9)**.  
+- **Sep 2025** – New paper out：Hyperspectral satellite reflectance data improves vegetation productivity estimation, **[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114989)**.
+- **Aug 2025** – New paper out：Physics-informed machine learning combining radiative transfer processes with leaf spectroscopy data for improved leaf trait prediction, with broad spatial, species, and temporal applicability, **[Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2025.114818)**.
 - **Jul 2025** – Reminder: AGU abstract submission deadline (16 July). Don’t miss Session B003, co-chaired by Fa: Advances in Measurements, Synthesis, Analysis, and Modeling of Greenhouse Gas Fluxes from Natural Ecosystems.
-- **Jul 2025** – New paper out：Current atmospheric satellite inversion, biogeochemical, and data-driven models exhibit biases in the temperature sensitivity of wetland CH<sub>4</sub>, [Agricultural and Forest Meteorology](https://doi.org/10.1016/j.agrformet.2025.110704).
-- **Jun 2025** – New paper out：Complex responses of wetland carbon fluxes to environmental and ecological variables, [Earth's Future](https://doi.org/10.1029/2024EF005751).  
-- **Feb 2025** – New paper out：Humans amplify hydroclimate-linked wildfire risk in the western US, [PNAS Nexus](https://academic.oup.com/pnasnexus/article/4/2/pgaf012/8003458). 
+- **Jul 2025** – New paper out：Current atmospheric satellite inversion, biogeochemical, and data-driven models exhibit biases in the temperature sensitivity of wetland CH<sub>4</sub>, **[Agricultural and Forest Meteorology](https://doi.org/10.1016/j.agrformet.2025.110704)**.
+- **Jun 2025** – New paper out：Complex responses of wetland carbon fluxes to environmental and ecological variables, **[Earth's Future](https://doi.org/10.1029/2024EF005751)**.  
+- **Feb 2025** – New paper out：Humans amplify hydroclimate-linked wildfire risk in the western US, **[PNAS Nexus](https://academic.oup.com/pnasnexus/article/4/2/pgaf012/8003458)**. 
