@@ -97,7 +97,7 @@ redirect_from:
 - **Aug 2026** – Fa Li enjoyed the **[NSF NCAR](https://ncarprojects.ucar.edu/S2S-predictability/2026-s2s-land-atmosphere-interactions-workshop)** S2S Land-atmosphere Interactions Workshop, Happy to see Friends there; thanks the workshop Committee!
 - **Jul 2026** – Fa Li Delivers **Invited Talk** at **[ESIP](https://www.esipfed.org/meetings/)**, invited by Executive Director Dr. Sarah Cooley 
 - **May 2026** – New paper published on **[Global Change Biology](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70899)**, Knowledge-guided AI for methane dynamics
-- **Apr 2026** – Our new paper published on **[Nature Climate Change](https://www.nature.com/articles/s41558-026-02609-w)**, Millions of small wetlands worldwide: important for climate
+- **Apr 2026** – Our new paper published on **[Nature Climate Change](https://www.nature.com/articles/s41558-026-02609-w)**, Millions of small wetlands worldwide: important for climate.
 - **Apr 2026** – Fa Li Delivers **Invited Talk** at *University of Illinois Chicago*, invited by Prof. Gavin McNicol
 - **Mar 2026** – Our new paper published on **[Science](https://www.science.org/doi/abs/10.1126/science.aef0459)**, A global methane observation system to track climate feedbacks
 - **Feb 2026** – Our new paper published on **[Science](https://www.science.org/doi/abs/10.1126/science.adx8262)**, Recent atmospheric methane surge caused by hydroxyl radical (sink) and wetlands/inland water emissions
