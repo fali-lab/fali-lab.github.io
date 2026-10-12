@@ -94,6 +94,7 @@ redirect_from:
 
 - **Hiring** – [PhDs and Postdoc opportunities, 2027](/joinus/)
 - **Welcome** – New team members(alphabetical order): Chayce Doda, Chenchen Ding, Hangkai You, and Mingda Wu 
+- **Sep 2026** – Fa Li Delivers **Invited Talk** at **[AmeriFlux Annual meeting](https://ameriflux.lbl.gov/community/ameriflux-meetings-workshops/2026-ameriflux-annual-meeting/)** Many thanks to Prof. Trevor Keenan and the organizing committee for the invitation!
 - **Aug 2026** – Fa Li enjoyed the **[NSF NCAR](https://ncarprojects.ucar.edu/S2S-predictability/2026-s2s-land-atmosphere-interactions-workshop)** S2S Land-atmosphere Interactions Workshop, Happy to see Friends there; thanks the workshop Committee!
 - **Jul 2026** – Fa Li Delivers **Invited Talk** at **[ESIP](https://www.esipfed.org/meetings/)**, invited by Executive Director Dr. Sarah Cooley 
 - **May 2026** – New paper published on **[Global Change Biology](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70899)**, Knowledge-guided AI for methane dynamics

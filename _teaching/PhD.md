@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-**Three** fully-funded Ph.D. students (tuition and stipend) to start in the **Fall of 2026**
+One fully-funded Ph.D. student (tuition and stipend) to start in the **Fall of 2027**
 
 Students interested in the following topics with strong quantitative and programming skills, are encouraged to apply:
 - AI: Machine learning, causality inference, foundation models
@@ -18,4 +18,4 @@ Students interested in the following topics with strong quantitative and program
 
 Applicants must meet the **[UT Austin Graduate school's admission requirements](https://catalog.utexas.edu/general-information/admission/graduate-admission/)**
 
-**How to apply**: Please send one PDF (including cover letter, CV, three references’ contact information, transcripts) to Dr. Fa Li at **fa.li@austin.utexas.edu** (cc: fali2@stanford.edu), with the subject “PhD Application – Land Intelligence Lab”. For full consideration, applications should be received by **November 10, 2025**. Applications will be reviewed on a rolling basis until positions are filled. We sincerely appreciate all applications; only shortlisted candidates will be contacted for an interview. 
+**How to apply**: Please send one PDF (including cover letter, CV, three references’ contact information, transcripts) to Dr. Fa Li at **fa.li@austin.utexas.edu**, with the subject “PhD Application – Land Intelligence Lab”. For full consideration, applications should be received by **Dec 20, 2026**. Applications will be reviewed on a rolling basis until positions are filled. We sincerely appreciate all applications; only shortlisted candidates will be contacted for an interview. 
