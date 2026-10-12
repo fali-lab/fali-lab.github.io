@@ -86,7 +86,7 @@ redirect_from:
   <a class="card" href="https://fluxnet.org/data/fluxnet-ch4-community-product/">
     <img src="{{ '/images/fluxnet-ch4.png' | relative_url }}" alt="AI in Earth system science">
     <h4>Global observational network of eddy covariance methane flux measurements</h4>
-    <p>FLUXNET-CH₄ V2.0 is on the way — Fa plays a leading role in this effort</p>
+    <p>FLUXNET-CH₄ V2.0 is on the way — Fa is helping coordinate this collaborative effort with teams around the world</p>
   </a>
 </div>
 
